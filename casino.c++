@@ -93,7 +93,7 @@ void drawLine(int n, char symbol)
         cout << symbol;
     cout << "\n" ;
 }
- 
+ // rules function yozildi bu yerda
 void rules()
 {
     system("cls");
